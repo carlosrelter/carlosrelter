@@ -1,8 +1,3 @@
-# Carlos F. Relter Pedro
-
-
-
-
 ## 👋 Ola! Bem-vindo(a) ao meu perfil Github.
 ### Meu nome é Carlos e meu apelido é "Carlão"!
 
