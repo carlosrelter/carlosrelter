@@ -1,16 +1,16 @@
-### Hi there 👋
+# Carlos F. Relter Pedro
 
-<!--
-**carlosrelter/carlosrelter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👋 Ola! Bem-vindo(a) ao meu perfil Github.
+### Meu nome é Carlos e meu apelido é "Carlão"!
+
+Sou um desenvolvedor em estágio inicial, que aprendeu as bases com Java e JavaScript, e recentemente estou me aprofundando em Angular e TypeScript. 
+[linkedIn](https://www.linkedin.com/in/carlos-f-relter-pedro-b3378a211/)
+
+## 👋 Hello! Welcome to my Github profile.
+### My name is Carlos and my nickname is "Carlão"!
+
+I'm an early stage developer, who learned the basics with Java and JavaScript, and recently I'm delving into Angular and TypeScript.
+[linkedIn](https://www.linkedin.com/in/carlos-f-relter-pedro-b3378a211/)
